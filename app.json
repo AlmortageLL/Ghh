@@ -30,12 +30,12 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5422153027",
+        "value": "5089553588",
         "required": true
       },        
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://Zohary23:ZOHARY23@cluster0.kgxrztg.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "STRING_SESSION": {
